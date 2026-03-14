@@ -2,14 +2,14 @@
 
 # Vergleich von datengetriebenen Klassifikationsmethoden
 
-**Projekt:** Vergleich von datengetriebenen Klassifikationsmethoden auf MNIST, MNIST-Fashion und CIFAR-10  
+**Projekt:** Vergleich von datengetriebenen Klassifikationsmethoden auf MNIST und CIFAR-10  
 **Autor:** Mohammad (Brayan) Hamidinia  
 **Email:** brayanhamidinia@gmail.com
 
 
 ## Kurzbeschreibung
 Dieses Projekt untersucht und vergleicht verschiedene datengetriebene Klassifikationsmethoden für Bilddaten. Dabei kommen **Multilayer Perceptron (MLP)**, **Convolutional Neural Networks (CNN)**, **Autoencoder** und **Generative Adversarial Networks (GANs)** zum Einsatz.  
-Ein besonderes Augenmerk liegt auf der Analyse, wie durch GANs generierte künstliche Bilder die Klassifikationsqualität beeinflussen. Evaluierungen erfolgen mit den Benchmark-Datensätzen **MNIST**, **MNIST-Fashion** und **CIFAR-10**.
+Ein besonderes Augenmerk liegt auf der Analyse, wie durch GANs generierte künstliche Bilder die Klassifikationsqualität beeinflussen. Evaluierungen erfolgen mit den Benchmark-Datensätzen **MNIST**, und **CIFAR-10**.
 
 ## Methoden & Tools
 - **MLP, CNN, Autoencoder, GAN**  
