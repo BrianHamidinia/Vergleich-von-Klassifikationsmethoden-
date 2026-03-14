@@ -3,8 +3,8 @@
 # Vergleich von datengetriebenen Klassifikationsmethoden
 
 **Projekt:** Vergleich von datengetriebenen Klassifikationsmethoden auf MNIST, MNIST-Fashion und CIFAR-10  
-**Autor:** Mohammad (Brayen) Hamidinia  
-**Email:** mohammad.hamidinia@study.hs-duesseldorf.de  
+**Autor:** Mohammad (Brayan) Hamidinia  
+**Email:** brayanhamidinia@gmail.com 
 **Semester/Fach:** 1 / Machine Learning II  
 
 ## Kurzbeschreibung
