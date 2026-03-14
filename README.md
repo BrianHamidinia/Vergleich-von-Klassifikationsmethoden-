@@ -5,8 +5,7 @@
 **Projekt:** Vergleich von datengetriebenen Klassifikationsmethoden auf MNIST, MNIST-Fashion und CIFAR-10  
 **Autor:** Mohammad (Brayan) Hamidinia  
 **Email:** brayanhamidinia@gmail.com 
-
-**Semester/Fach:** 1 / Machine Learning II  
+**Semester:** 1 / Machine Learning II  
 
 ## Kurzbeschreibung
 Dieses Projekt untersucht und vergleicht verschiedene datengetriebene Klassifikationsmethoden für Bilddaten. Dabei kommen **Multilayer Perceptron (MLP)**, **Convolutional Neural Networks (CNN)**, **Autoencoder** und **Generative Adversarial Networks (GANs)** zum Einsatz.  
