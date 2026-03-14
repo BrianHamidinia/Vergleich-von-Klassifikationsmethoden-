@@ -5,6 +5,7 @@
 **Projekt:** Vergleich von datengetriebenen Klassifikationsmethoden auf MNIST, MNIST-Fashion und CIFAR-10  
 **Autor:** Mohammad (Brayan) Hamidinia  
 **Email:** brayanhamidinia@gmail.com 
+
 **Semester/Fach:** 1 / Machine Learning II  
 
 ## Kurzbeschreibung
